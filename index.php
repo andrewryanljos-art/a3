@@ -1,5 +1,4 @@
-<?php require DIR . '/content.php' ?>
-<!DOCTYPE html>
+<?php require __DIR__ . '/content.php' ?><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
